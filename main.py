@@ -10,6 +10,7 @@ P_casa_temporario = 0
 P1_prisão = 0
 P2_prisão = 0
 
+
 # importar random
 import random
  
